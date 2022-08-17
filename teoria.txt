@@ -155,4 +155,50 @@ Muestra el texto subrayado
 <var>
 Marca variables de programas y similares
 
+const prompt = require("prompt-sync")({ sigint: true });
 
+Pseudoselectores <-------------------------------------------------------------------
+:active
+:checked
+:default
+:dir()
+:disabled
+:empty
+:enabled
+:first
+:first-child
+:first-of-type
+:fullscreen
+:focus
+:hover
+:indeterminate
+:in-range
+:invalid
+:lang()
+:last-child
+:last-of-type
+:left
+:link
+:not()
+:nth-child()
+:nth-last-child()
+:nth-last-of-type()
+:nth-of-type()
+:only-child
+:only-of-type
+:optional
+:out-of-range
+:read-only
+:read-write
+:required
+:right
+:root
+:scope (en-US)
+:target
+:valid
+:visited
+Palabras reservada para JS <---------------------------------------------------------
+break, case, catch, continue, default, let
+delete, do, else, finally, for, function, if, in,
+instanceof, new, return, switch, this, throw, try,
+typeof, var, void, while, with, etc.
